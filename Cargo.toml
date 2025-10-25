@@ -22,6 +22,9 @@ egui = "0.31.1"
 egui-miniquad = "0.16.0"
 macroquad = { version="0.4.14", default-features=false }
 
+[patch.crates-io]
+macroquad = { git = "https://github.com/InnocentusLime/macroquad.git", rev = "6a61f666749871179e616c7dd5b5117fcb94616c" }
+
 [features]
 default = ["audio"]
 audio = ["macroquad/audio"]
