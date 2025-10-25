@@ -1,3 +1,9 @@
+# egui-macroquad (quad-jam)
+
+Egui-macroquad contains egui bindings for macroquad.
+
+This is a branch where egui-macroquad is custom-tailored to the needs of quad-jam.
+
 # [egui](https://github.com/emilk/egui) bindings for [macroquad](https://github.com/not-fl3/macroquad)
 
 [![Latest version](https://img.shields.io/crates/v/egui-macroquad.svg)](https://crates.io/crates/egui-macroquad)
